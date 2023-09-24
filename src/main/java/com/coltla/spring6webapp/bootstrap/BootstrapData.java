@@ -52,7 +52,7 @@ public class BootstrapData implements CommandLineRunner {
         noEjbSaved.getAuthors().add(rodSaved);
 
         Publisher publisher = new Publisher();
-        publisher.setPublisherName("George Franklin");
+        publisher.setName("George Franklin");
         publisher.setAddress("1234 Main");
         Publisher savedPublisher = publisherRepository.save(publisher);
 
