@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Standard Run" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.coltla.spring6webapp.Spring6WebappApplication" />
+    <module name="spring-6-webapp" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
